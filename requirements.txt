@@ -4,3 +4,4 @@ urllib3
 seaborn
 matplotlib
 jupyter
+openpyxl
