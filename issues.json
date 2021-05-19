@@ -1,0 +1,325 @@
+[
+    {
+        "Sprint 0": {
+            "CLOSED_ISSUES": 2,
+            "TAGS": {
+                "HOTFIX": 0,
+                "DOCS": 1,
+                "FEATURE": 0,
+                "ARQ": 0,
+                "DEVOPS": 0,
+                "ANALYTICS": 0,
+                "US": 0,
+                "EASY": 0,
+                "MEDIUM": 0,
+                "HARD": 0,
+                "EPS": 0,
+                "MDS": 0
+            }
+        }
+    },
+    {
+        "Sprint 1": {
+            "CLOSED_ISSUES": 18,
+            "TAGS": {
+                "HOTFIX": 0,
+                "DOCS": 10,
+                "FEATURE": 1,
+                "ARQ": 1,
+                "DEVOPS": 0,
+                "ANALYTICS": 0,
+                "US": 0,
+                "EASY": 6,
+                "MEDIUM": 2,
+                "HARD": 0,
+                "EPS": 7,
+                "MDS": 4
+            }
+        }
+    },
+    {
+        "Sprint 2": {
+            "CLOSED_ISSUES": 13,
+            "TAGS": {
+                "HOTFIX": 1,
+                "DOCS": 8,
+                "FEATURE": 0,
+                "ARQ": 0,
+                "DEVOPS": 1,
+                "ANALYTICS": 0,
+                "US": 0,
+                "EASY": 8,
+                "MEDIUM": 2,
+                "HARD": 0,
+                "EPS": 7,
+                "MDS": 3
+            }
+        }
+    },
+    {
+        "Sprint 3": {
+            "CLOSED_ISSUES": 17,
+            "TAGS": {
+                "HOTFIX": 0,
+                "DOCS": 15,
+                "FEATURE": 0,
+                "ARQ": 0,
+                "DEVOPS": 1,
+                "ANALYTICS": 0,
+                "US": 0,
+                "EASY": 4,
+                "MEDIUM": 5,
+                "HARD": 1,
+                "EPS": 9,
+                "MDS": 5
+            }
+        }
+    },
+    {
+        "Sprint 4": {
+            "CLOSED_ISSUES": 17,
+            "TAGS": {
+                "HOTFIX": 0,
+                "DOCS": 15,
+                "FEATURE": 0,
+                "ARQ": 2,
+                "DEVOPS": 1,
+                "ANALYTICS": 0,
+                "US": 0,
+                "EASY": 1,
+                "MEDIUM": 5,
+                "HARD": 0,
+                "EPS": 6,
+                "MDS": 7
+            }
+        }
+    },
+    {
+        "Sprint 5": {
+            "CLOSED_ISSUES": 19,
+            "TAGS": {
+                "HOTFIX": 0,
+                "DOCS": 9,
+                "FEATURE": 1,
+                "ARQ": 1,
+                "DEVOPS": 2,
+                "ANALYTICS": 0,
+                "US": 0,
+                "EASY": 1,
+                "MEDIUM": 1,
+                "HARD": 0,
+                "EPS": 7,
+                "MDS": 10
+            }
+        }
+    },
+    {
+        "Sprint 6": {
+            "CLOSED_ISSUES": 15,
+            "TAGS": {
+                "HOTFIX": 1,
+                "DOCS": 10,
+                "FEATURE": 2,
+                "ARQ": 3,
+                "DEVOPS": 0,
+                "ANALYTICS": 0,
+                "US": 1,
+                "EASY": 1,
+                "MEDIUM": 2,
+                "HARD": 1,
+                "EPS": 5,
+                "MDS": 3
+            }
+        }
+    },
+    {
+        "Sprint 7": {
+            "CLOSED_ISSUES": 11,
+            "TAGS": {
+                "HOTFIX": 1,
+                "DOCS": 7,
+                "FEATURE": 1,
+                "ARQ": 0,
+                "DEVOPS": 0,
+                "ANALYTICS": 0,
+                "US": 0,
+                "EASY": 5,
+                "MEDIUM": 0,
+                "HARD": 0,
+                "EPS": 5,
+                "MDS": 2
+            }
+        }
+    },
+    {
+        "Sprint 8": {
+            "CLOSED_ISSUES": 9,
+            "TAGS": {
+                "HOTFIX": 1,
+                "DOCS": 5,
+                "FEATURE": 2,
+                "ARQ": 0,
+                "DEVOPS": 0,
+                "ANALYTICS": 0,
+                "US": 1,
+                "EASY": 3,
+                "MEDIUM": 1,
+                "HARD": 1,
+                "EPS": 6,
+                "MDS": 3
+            }
+        }
+    },
+    {
+        "Sprint 9": {
+            "CLOSED_ISSUES": 18,
+            "TAGS": {
+                "HOTFIX": 2,
+                "DOCS": 5,
+                "FEATURE": 5,
+                "ARQ": 2,
+                "DEVOPS": 3,
+                "ANALYTICS": 0,
+                "US": 2,
+                "EASY": 3,
+                "MEDIUM": 1,
+                "HARD": 2,
+                "EPS": 7,
+                "MDS": 1
+            }
+        }
+    },
+    {
+        "Sprint 10": {
+            "CLOSED_ISSUES": 14,
+            "TAGS": {
+                "HOTFIX": 1,
+                "DOCS": 11,
+                "FEATURE": 2,
+                "ARQ": 3,
+                "DEVOPS": 1,
+                "ANALYTICS": 2,
+                "US": 0,
+                "EASY": 11,
+                "MEDIUM": 1,
+                "HARD": 0,
+                "EPS": 12,
+                "MDS": 0
+            }
+        }
+    },
+    {
+        "Sprint 11": {
+            "CLOSED_ISSUES": 11,
+            "TAGS": {
+                "HOTFIX": 3,
+                "DOCS": 6,
+                "FEATURE": 1,
+                "ARQ": 4,
+                "DEVOPS": 0,
+                "ANALYTICS": 1,
+                "US": 0,
+                "EASY": 3,
+                "MEDIUM": 5,
+                "HARD": 1,
+                "EPS": 6,
+                "MDS": 0
+            }
+        }
+    },
+    {
+        "Sprint 12": {
+            "CLOSED_ISSUES": 12,
+            "TAGS": {
+                "HOTFIX": 2,
+                "DOCS": 6,
+                "FEATURE": 1,
+                "ARQ": 1,
+                "DEVOPS": 2,
+                "ANALYTICS": 1,
+                "US": 1,
+                "EASY": 5,
+                "MEDIUM": 5,
+                "HARD": 0,
+                "EPS": 8,
+                "MDS": 3
+            }
+        }
+    },
+    {
+        "Sprint 13": {
+            "CLOSED_ISSUES": 14,
+            "TAGS": {
+                "HOTFIX": 3,
+                "DOCS": 8,
+                "FEATURE": 4,
+                "ARQ": 0,
+                "DEVOPS": 2,
+                "ANALYTICS": 2,
+                "US": 2,
+                "EASY": 6,
+                "MEDIUM": 3,
+                "HARD": 1,
+                "EPS": 11,
+                "MDS": 2
+            }
+        }
+    },
+    {
+        "Sprint 14": {
+            "CLOSED_ISSUES": 13,
+            "TAGS": {
+                "HOTFIX": 3,
+                "DOCS": 4,
+                "FEATURE": 5,
+                "ARQ": 0,
+                "DEVOPS": 1,
+                "ANALYTICS": 4,
+                "US": 4,
+                "EASY": 3,
+                "MEDIUM": 5,
+                "HARD": 1,
+                "EPS": 8,
+                "MDS": 4
+            }
+        }
+    },
+    {
+        "Sprint 15": {
+            "CLOSED_ISSUES": 3,
+            "TAGS": {
+                "HOTFIX": 2,
+                "DOCS": 1,
+                "FEATURE": 0,
+                "ARQ": 0,
+                "DEVOPS": 0,
+                "ANALYTICS": 2,
+                "US": 0,
+                "EASY": 1,
+                "MEDIUM": 0,
+                "HARD": 0,
+                "EPS": 3,
+                "MDS": 1
+            }
+        }
+    },
+    {
+        "Sprint 16": {
+            "CLOSED_ISSUES": 0,
+            "TAGS": {
+                "HOTFIX": 0,
+                "DOCS": 0,
+                "FEATURE": 0,
+                "ARQ": 0,
+                "DEVOPS": 0,
+                "ANALYTICS": 0,
+                "US": 0,
+                "EASY": 0,
+                "MEDIUM": 0,
+                "HARD": 0,
+                "EPS": 0,
+                "MDS": 0
+            }
+        }
+    }
+]
